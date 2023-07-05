@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Taha Furkan Bayar</h1>
 <h3 align="center">Frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **JavaScript**
+
+- 🌱 I’m currently learning **React and Node.js**
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **tahafurkanbayar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
