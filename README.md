@@ -48,3 +48,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahafurkanbayar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tahafurkanbayar&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="142" alt="streak graph"  />
 </div>
+
+![snake gif](https://github.com/tahabayar/tahafurkanbayar/blob/output/github-contribution-grid-snake.gif)
