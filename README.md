@@ -49,4 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=tahafurkanbayar&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="142" alt="streak graph"  />
 </div>
 
+###
+
 ![snake gif](https://github.com/tahabayar/tahafurkanbayar/blob/output/github-contribution-grid-snake.gif)
+
+###
+
